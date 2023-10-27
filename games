@@ -13,7 +13,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-0.0.0.0 instagram.com
+127.0.0.1 instagram.com
 0.0.0.0 messenger.com
 0.0.0.0 roblox.com
 0.0.0.0 poki.com
